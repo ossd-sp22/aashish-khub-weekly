@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Aashish Khubchandani
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2022
+description: Hi! I study Physics and Computer Science here at NYU! 
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -29,8 +29,8 @@ footer-links:
   facebook:
   flickr:
   github: ossd-sp22
-  instagram:
-  linkedin:
+  instagram: @aashishk29
+  linkedin: https://www.linkedin.com/in/aashish-k/
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
