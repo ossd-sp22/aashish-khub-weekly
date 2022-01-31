@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Aashish and I study Physics and Computer Science here at NYU!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+You can reach me at aashish [dot] k [at] nyu [dot] edu
