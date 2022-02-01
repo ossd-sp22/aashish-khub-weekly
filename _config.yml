@@ -13,7 +13,7 @@ description: Hi! I study Physics and Computer Science here at NYU. Welcome to my
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/photo.png 
+avatar: "https://ossd-sp22.github.io/aashish-khub-weekly/images/photo.png"
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 
