@@ -22,6 +22,9 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 10   | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Continental_Europe&oldid=1071097643)    | Wikipedia (En) Edit    |   I added a citation.    |
+| Feb 20   | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=List_of_operating_systems&oldid=1072902131)    | Wikipedia (En) Edit    |   I added a citation.    |
+| Feb 26   | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Talk:2022_Russian_invasion_of_Ukraine&oldid=1074155797)    | Wikipedia (En) Edit    |   I added an opinion to the talk page of an article.    |
+| Apr 6   | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Continental_Europe&oldid=1071097643)    | Wikipedia (En) Edit    |   I clarified what a term meant to make it more understandable.    |
 |     |     |     |      |
 |     |     |     |      |
