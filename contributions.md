@@ -35,5 +35,6 @@ May 5 | [Issue](https://github.com/joannakl/ossd/issues/29) | Github Issue Raise
 | May 3   | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Scalar_curvature&oldid=1086047549)    | Wikipedia (En) Edit    |   I removed an equation with an incorrect coefficient.  |
 May 5 | [Issue](https://github.com/mamaral/xkcd-Open-Source/issues/96) | Github Issue Raised     |   I realized that an app I have used for a while is Open Source so I submitted an Issue to add a feature I have always wanted.  |
 May 7 | [Pull Request](https://github.com/codinasion/codinasion-programme/pull/546) | Github PR     |   I added code to a project.  |
+| May 3   | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Einstein_tensor&oldid=1086861804)    | Wikipedia (En) Edit    |   I explained what the notation for the derivative of the Christoffel Symbol refers to  |
 |     |     |     |      |
 |     |     |     |      |
